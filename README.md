@@ -18,7 +18,7 @@ The **Chronological order** of the code:
 4. Functions for **accessing** the stored html file according to the specified data type and **extracting** the relevant info
 5. **Powerpoint** table functions (I have a few rather complicated Tables that should also be formated neatly)
 6. main()
- 7. This functions initiates the driver, executes all Chrome functions (clicks the desired buttons), downloads and proceesses the data and finally creates the powerpoint and fills it with the relevant processed Data
+    7. This functions initiates the driver, executes all Chrome functions (clicks the desired buttons), downloads and proceesses the data and finally creates the powerpoint and fills it with the relevant processed Data
 8. definition of two GUI functions: retrive_info; gathers all inserted information from the GUI, create_presentation; **this button actaully calls the main()**
 9. **configuration of the GUI** and finally the **execution of the GUI**
 
