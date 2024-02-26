@@ -1,5 +1,5 @@
 # Solidsport-Analytics-Tool
-This Program is creates a powerpoint presentation for customers of the Solidsport Company containing all relevant analytical information of a specified event.
+This Program creates a powerpoint presentation for customers of the Solidsport Company containing all relevant analytical information of a specified event.
 
 **In order to get the program to work the following dependencies have to be imported/installed:**
 1. python 3.12.1 (I think it also works on older versions, I am not sure though)
