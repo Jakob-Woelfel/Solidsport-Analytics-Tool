@@ -23,7 +23,9 @@ The **Chronological order** of the code:
 9. **configuration of the GUI** and finally the **execution of the GUI**
 
 The **functionalities** of the code:
-1. A ChromeDriver Bot, logs in on the Solidsport page, goes to the specfied eventpage and then combs through all relevant data
-2. A beautifulsoup4 script that saves the html code of all relevant pages and the parses through the html code looking for the relevant data to that html page (e.g. looking for the top five countries viewers watched the stream from by unique views in the geographic html code)
-3. The creation of a powerpoint
+1. A GUI with Tkinter that is used for userinput
+2. A ChromeDriver Bot, logs in on the Solidsport page, goes to the specfied eventpage and then combs through all relevant data
+3. A beautifulsoup4 script that saves the html code of all relevant pages and the parses through the html code looking for the relevant data to that html page (e.g. looking for the top five countries viewers watched the stream from by unique views in the geographic html code)
+4. A small csv reading spript that analyses the transaction data saved
+5. The creation of a powerpoint depending on the template, filled with all processed Data
 
